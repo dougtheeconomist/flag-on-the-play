@@ -35,7 +35,6 @@ To address this issue, I look at a measure of the discrepancy in the number of p
 
 What I found is that the deviation in seasonal penalties is lower across teams under the same head coach than teams by location. This difference is not large enough to be statistically significant however, the likelihood that the difference seen is just due to random variation rather than coaching having a significant impact on penalties is 77.8%. 
 
-To get a real sense of this we can look at an example from the data, and the most telling of these will be Andy Reid, who is the only coach within the window of available data who has spend significant time with two different teams. Andy Reid coaches for an average of 110 penalties per season, with a standard deviation of 13.9 points. In contrast, the Eagles who he coached for 4 years, typically receive  
 
 ## Conclusions
 
